@@ -10,10 +10,11 @@ Product manager and builder in Dublin. I run **VRIM**, an AI consultancy and pro
 
 #### Live now
 
+- **[SafeFamily](https://safefamily.ie)** - ISP-grade DNS parental controls and child-safe AI chat
 - **[RoundCaddy](https://roundcaddy.com)** - strokes-gained golf analytics on web, iOS, Android and Apple Watch
 - **[BeatDeck](https://beatdeckapp.com)** - music timeline party game, native iOS and Android, 28 languages
-- **[Scoilius](https://scoileus.com)** - bilingual Irish primary-school platform with AI tutor and additional-needs supports
-- **[SafeFamily](https://safefamily.ie)** - ISP-grade DNS parental controls and child-safe AI chat
+- **[Scoileus](https://scoileus.com)** - bilingual Irish primary-school platform with AI tutor and additional-needs supports
+- **[Proofios](https://proofios.com)** - company search for startups and buyers, Ireland first with UK coverage
 
 #### On the bench
 
