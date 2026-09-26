@@ -18,6 +18,11 @@ Product manager and builder in Dublin. I run **VRIM**, an AI consultancy and pro
 
 #### On the bench
 
+- **NAIC**, AI to cut missed hospital appointments, in English and Irish
+- **OpportunityOS**, a pilot for the National Youth Opportunity Guarantee (NYOG)
+- **Startups**, a local-first operating system for founders
+- Browser OBD diagnostics: ELM327 straight into the page over Web Serial, no driver
+- **HomeOwner**, room scans and home records on iOS, Android, and web
 - A multi-platform IPTV player with a shared Rust core (Apple TV, Vision Pro, Android TV, web)
 - A quiet AI archivist for Signal groups
 - Local-first home automation on a Raspberry Pi
